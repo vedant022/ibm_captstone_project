@@ -1,0 +1,46 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:10px 80px;
+    font-size: 20px;
+    color: #373A40;
+}
+.nav__logo a{
+    text-decoration: none;
+    font-size: 35px;
+    color: #373A40;
+
+}
+.healthy-y-letter{
+    font-weight: 800;
+    color: #DC5F00;
+}
+.nav__links{
+    list-style-type: none;
+    display: flex;
+    gap:30px;
+    color: #373A40;
+
+}
+.nav__links li a{
+    text-decoration: none;
+    color: #373A40;
+
+}
+
+ul{
+    display: flex;
+    align-items: center;
+}
+
+.profile_holder{
+    display: flex;
+    /* background-color: red; */
+    align-items: center;
+
+}
+.btn2{
+    width: 30%;
+    background-color: rgb(182, 3, 3);
+}
